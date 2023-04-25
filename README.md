@@ -1,4 +1,4 @@
-# Awesome [Fachhochschule Vorarlberg](https://fhv.at)
+# Awesome [Vorarlberg University of Applied Sciences](https://fhv.at)
 
 a collection of awesome things related to FHV, Vorarlberg University of Applied Sciences
 
