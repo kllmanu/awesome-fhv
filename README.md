@@ -8,9 +8,19 @@ a collection of awesome things related to FHV, Vorarlberg University of Applied 
 
 ## Computer science (BSc) — Software and Information Engineering
 
+### 1st semester
+
+- [FHV_StructuredProgramming](https://github.com/iiNomad23/FHV_StructuredProgramming): Basic structured programming examples
+
+### 2nd semester
+
+- [FHV_BankingProject](https://github.com/iiNomad23/FHV_BankingProject): DDD with an layered architecture example
+- [FHV_BasicAlgorithmsAndOOP](https://github.com/iiNomad23/FHV_BasicAlgorithmsAndOOP): Basic algorithms and object oriented programming examples
+
 ### 3rd semester
 - [WS19-Stochastics-R-Project](https://github.com/DominicLuidold/WS19-Stochastics-R-Project): Stochastics project analyzing in-class lecture feedback
 - [WS19-WFAC-XML](https://github.com/DominicLuidold/WS19-WFAC-XML): XML project processing and displaying sample WFAC data
+- [FHV_Webapplications](https://github.com/iiNomad23/FHV_Webapplications): Basic webapplication examples.
 
 ### 4th semester
 - [SS20-WebApplicationEngineering](https://github.com/DominicLuidold/SS20-WebApplicationEngineering): A collection of mandatory exercises in "Web Application Engineering"
